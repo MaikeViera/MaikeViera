@@ -19,6 +19,10 @@ Estudante de **Sistemas de Informação na Universidade Federal do Amazonas (UFA
 
 Meu portfólio reúne **2 projetos finalizados e 1 projeto em desenvolvimento**, com foco em soluções de software e automação de processos cartorários.
 
+- **RevisorCRC**
+- **Sistema de Registro Civil**
+- **Autógrafo**
+
 [Explore meus repositórios](https://github.com/MaikeViera?tab=repositories)
 
 ## 🎯 Foco
